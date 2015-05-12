@@ -15,6 +15,7 @@ See [GitHub releases](https://github.com/wakatime/gedit-wakatime/releases)
 Installation
 ------------
 
+1. Ensure you have installed python3-pip
 1. Run the `install.py` script as root
 1. Edit `~/.wakatime.cfg` and add your apikey as follows:
 
